@@ -1,4 +1,6 @@
 your_favorite_word = "Eleemosynary"
 puts "#{your_favorite_word.upcase}"
 puts "MY FAVORITE WORD IS #{your_favorite_word.upcase}."
-puts "MY FAVORITE WORD IS #{your_favorite_word.upcase}.".downcase
+phrase = "I AM NOT SHOUTING"
+# make that downcase
+puts lowercased_phrase
