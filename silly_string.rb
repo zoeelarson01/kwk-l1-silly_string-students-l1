@@ -1,5 +1,7 @@
 your_favorite_word = "Eleemosynary"
-puts "#{your_favorite_word}".upcase
+puts "My favorite word is Eleemosynary
+favorite_word_in_all_caps = #{your_favorite_word}.upcase
+puts "MY FAVORITE WORD IS #{favorite_word_in_all_caps}
 puts "IM NOT SHOUTING".downcase
 puts "supercalifragilisticexpialidocious".length
 puts "wow" + "mom"
