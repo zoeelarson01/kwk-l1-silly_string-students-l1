@@ -1,4 +1,4 @@
-your_favorite_word = Eleemosynary
+your_favorite_word = "Eleemosynary"
 puts "#{your_favorite_word}".upcase
 puts "IM NOT SHOUTING".downcase
 puts "supercalifragilisticexpialidocious".length
